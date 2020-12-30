@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607240842 source:c:\users\drago\desktop\fii\ip\hideconsoleinput\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+

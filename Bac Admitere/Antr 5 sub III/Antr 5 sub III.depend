@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1593025886 source:c:\users\drago\documents\c++\antr 5 sub iii\main.cpp
+	<iostream>
+	<fstream>
+
+1593026167 source:c:\users\drago\documents\c++\antr 5 sub iii\sub iii, 1.cpp
+	<iostream>
+
+1593026671 source:c:\users\drago\documents\c++\antr 5 sub iii\sub iii, 2.cpp
+	<iostream>
+	<cstring>
+
